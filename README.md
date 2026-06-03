@@ -1,4 +1,4 @@
-﻿# CodeAlpha_StudentGradeTracker
+StudentGradeTracker
 
 ## 📌 Project Overview
 Student Grade Tracker is a Java-based application developed to manage and analyze student grades efficiently.
@@ -35,8 +35,7 @@ This project was created as part of the CodeAlpha Java Programming Internship.
 ---
 
 ## 📂 Project Structure
-
-CodeAlpha_StudentGradeTracker
+StudentGradeTracker
 │── StudentGradeTracker.java
 │── README.md
 
@@ -53,7 +52,7 @@ java StudentGradeTracker
 
 📊 Sample Output
 =======================================
-     CODEALPHA STUDENT TRACKER
+      STUDENT TRACKER
 =======================================
 Enter number of students: 5
 
@@ -97,7 +96,7 @@ Lowest Marks  : 54 (David)
 Project Completed Successfully!
 🎯 Internship Details
 
-This project was completed as part of the Java Programming Internship at CodeAlpha.
+This project was completed as part of the Java Programming Internship.
 
 👩‍💻 Author
 
